@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Kunal Prajapati!
 
-<!--
-**kunalprajapati7974-del/KunalPrajapati7974-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA Student | BIST Bhopal  
+📊 Aspiring Data Analyst  
+📍 Bhopal, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- 📊 Excel | SQL | Power BI
+- 🐍 Python (Learning)
+- 🤖 AI/ML (Learning)
+
+---
+
+## 📂 Projects
+- 🚧 Coming Soon...
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/kunal-prajapati-3abb72385?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: kunalprajapati7974@gmail.com
+
+---
+
+⚡ Fun fact: BBA student who codes! 😄
